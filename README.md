@@ -150,3 +150,85 @@ This repository contains a 400+ papers relevant to:
 </tbody>
 </table>
 <p>&nbsp;</p>
+<table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner mw-made-collapsible">
+<tbody>
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div id="Software_quality"><a title="" href="https://en.wikipedia.org/wiki/Software_quality">Software quality</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Qualities</th>
+<td class="navbox-list navbox-odd">
+<div>&nbsp;</div>
+<table class="nowraplinks navbox-subgroup">
+<tbody>
+<tr>
+<th class="navbox-group" scope="row">Internal</th>
+<td class="navbox-list navbox-odd">
+<div>
+<ul>
+<li><a title="Software sizing" href="https://en.wikipedia.org/wiki/Software_sizing">Size</a></li>
+<li><a title="Maintainability" href="https://en.wikipedia.org/wiki/Maintainability#Software_engineering">Maintainability</a></li>
+<li><a title="Flexibility (engineering)" href="https://en.wikipedia.org/wiki/Flexibility_(engineering)">Flexibility</a></li>
+<li><a title="Software portability" href="https://en.wikipedia.org/wiki/Software_portability">Portability</a></li>
+<li><a title="Reusability" href="https://en.wikipedia.org/wiki/Reusability">Reusability</a></li>
+<li><a title="Computer programming" href="https://en.wikipedia.org/wiki/Computer_programming#Readability_of_source_code">Readability</a></li>
+<li><a title="Scalability" href="https://en.wikipedia.org/wiki/Scalability">Scalability</a></li>
+<li><a title="Software testability" href="https://en.wikipedia.org/wiki/Software_testability">Testability</a></li>
+<li><a class="mw-redirect" title="Understandability" href="https://en.wikipedia.org/wiki/Understandability">Understandability</a></li>
+<li><a title="Loose coupling" href="https://en.wikipedia.org/wiki/Loose_coupling">Loose coupling</a></li>
+<li><a title="Orthogonality (programming)" href="https://en.wikipedia.org/wiki/Orthogonality_(programming)">Orthogonality</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">External</th>
+<td class="navbox-list navbox-even">
+<div>
+<ul>
+<li><a title="Usability" href="https://en.wikipedia.org/wiki/Usability">Usability</a></li>
+<li><a title="Reliability engineering" href="https://en.wikipedia.org/wiki/Reliability_engineering">Reliability</a></li>
+<li><a title="Adaptability" href="https://en.wikipedia.org/wiki/Adaptability">Adaptability</a></li>
+<li><a title="Correctness (computer science)" href="https://en.wikipedia.org/wiki/Correctness_(computer_science)">Correctness</a></li>
+<li><a title="Accuracy and precision" href="https://en.wikipedia.org/wiki/Accuracy_and_precision">Accuracy</a></li>
+<li><a title="Algorithmic efficiency" href="https://en.wikipedia.org/wiki/Algorithmic_efficiency">Efficiency</a></li>
+<li><a title="Robustness (computer science)" href="https://en.wikipedia.org/wiki/Robustness_(computer_science)">Robustness</a></li>
+<li><a class="mw-selflink selflink">Security</a></li>
+<li><a title="Software system safety" href="https://en.wikipedia.org/wiki/Software_system_safety">Safety</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div>&nbsp;</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Standards and lists</th>
+<td class="navbox-list navbox-odd">
+<div>
+<ul>
+<li><a title="ISO/IEC 9126" href="https://en.wikipedia.org/wiki/ISO/IEC_9126">ISO/IEC 9126</a></li>
+<li><a title="Non-functional requirement" href="https://en.wikipedia.org/wiki/Non-functional_requirement#Examples">Non-functional requirements</a></li>
+<li><a title="List of system quality attributes" href="https://en.wikipedia.org/wiki/List_of_system_quality_attributes">List of system quality attributes</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row">Processes</th>
+<td class="navbox-list navbox-even">
+<div>
+<ul>
+<li><a title="Software quality management" href="https://en.wikipedia.org/wiki/Software_quality_management">Software quality management</a></li>
+<li><a title="Software quality control" href="https://en.wikipedia.org/wiki/Software_quality_control">Software quality control</a></li>
+<li><a title="Software quality assurance" href="https://en.wikipedia.org/wiki/Software_quality_assurance">Software quality assurance</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
